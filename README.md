@@ -1,5 +1,4 @@
-<div align="center">
-  
+file:///C:/xampp/htdocs/fikram/index.html  
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/jack-portfolio)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/jack-portfolio?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/jack-portfolio?style=social)
